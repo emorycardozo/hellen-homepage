@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
     <meta charset="utf-8" />
@@ -28,8 +28,14 @@
             <div class="container px-5">
                 <!-- <a class="navbar-brand" href="/home"><span class="fw-bolder text-primary">Hellen
                         Monarcha </span></a> -->
-                <a class="navbar-brand" href="/home"> <img src="static/assets/assinatura-hellen-monarcha.png" class="img-responsive
-                        width=" 400" alt="logo-assinatura-hellen-monarcha"> </a>
+                <a class="navbar-brand" href="/home">
+                    <picture>
+                        <source media="(max-width: 468px)" srcset="static/assets/assinatura-hellen-monarcha-sm.png">
+                        <source media="(max-width: 768px)" srcset="static/assets/assinatura-hellen-monarcha-md.png">
+                        <img src="static/assets/assinatura-hellen-monarcha-bg.png" alt="assinatura hellen monarcha"
+                            width="300em">
+                    </picture>
+                </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation"><span
