@@ -13529,7 +13529,7 @@ html {
   /* background: -webkit-linear-gradient(315deg, #1e30f3 0%, #e21e80 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent; */
-  background: -webkit-linear-gradient(315deg, rgb(255, 090, 057) 0%, #e21e80 100%);
+  background: -webkit-linear-gradient(315deg, rgb(80, 80, 80) 0%, rgb(80, 80, 80) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -13585,7 +13585,8 @@ html {
 }
 
 .profile .dots-2 svg {
-  fill: #1e30f3;
+  /* fill: #1e30f3; */
+  fill: rgb(80, 80, 80);
 }
 
 .profile .dots-3 {
@@ -13607,7 +13608,8 @@ html {
 }
 
 .profile .dots-4 svg {
-  fill: #1e30f3;
+  /* fill: #1e30f3; */
+  fill: rgb(80, 80, 80);
 }
 
 @media (min-width: 576px) {

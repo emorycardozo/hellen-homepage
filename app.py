@@ -13,9 +13,13 @@ def home():
     return render_template('index.html')
 
 
-@app.route('/contato')
-def contact():
-    return render_template('contact.html')
+# @app.route('/contato')
+# def contact():
+#     return render_template('contact.html')
+
+@app.route('/artigos')
+def artigos():
+    return render_template('artigos.html')
 
 
 @app.route('/projetos')
