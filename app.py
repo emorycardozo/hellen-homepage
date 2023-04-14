@@ -40,3 +40,8 @@ def privacy():
 @app.route('/terms')
 def terms():
     return render_template('terms.html')
+
+
+@app.route('/linktree')
+def linktree():
+    return render_template('linktree.html')
