@@ -19,6 +19,5 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 * **Start Bootstrap!** - *Trabalho Inicial* - [Start Bootstrap](https://startbootstrap.com/theme/personal)
 * **Emory Cardozo** - *Ajustes e alterações na matriz* - [emorycardozo](https://github.com/emorycardozo)
-* **Cecil Cardozo** - *Consultoria* - [cecilcardozo](https://github.com/cecilcardozo)
+* **Cecil Cardozo** - *Consultoria* - [cecilcardozo](https://github.com/cecilmalone)
 
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
