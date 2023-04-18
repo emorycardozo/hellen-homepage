@@ -7,10 +7,11 @@ Projeto desenvolvido para que a cliente tivesse uma maior presença digital de f
 Mencione as ferramentas que você usou para criar seu projeto
 
 * [Flask](https://flask.palletsprojects.com/en/2.2.x/) - Flask
-* [Heroku](https://heroku.com/) - Heroku - hospedagem
+* [Heroku](https://heroku.com/) - Hospedagem
 * [Start Bootstrap](https://startbootstrap.com/theme/personal) - Página utilizada como matriz
 * [HTML5 Bootstrap](https://html5bootstrap.com) - HTML5
-* [css] (https://www.w3schools.com/css/) - CSS
+* [css](https://www.w3schools.com/css/) - CSS
+* [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - Bootstrap 5
 
 ## ✒️ Autores
 
