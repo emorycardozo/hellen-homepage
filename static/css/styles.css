@@ -658,6 +658,15 @@ progress {
   }
 }
 
+#container-img-artigo {
+  width: 100%;
+  position: relative;
+}
+
+#container-img-artigo img {
+  width: 100%;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
