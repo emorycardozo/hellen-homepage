@@ -652,6 +652,12 @@ progress {
   height: auto;
 }
 
+@media(max-width:767px) {
+  #img-artigos {
+    display: none;
+  }
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
