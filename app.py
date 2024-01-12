@@ -1,4 +1,4 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, redirect
 
 app = Flask(__name__)
 
@@ -45,3 +45,8 @@ def terms():
 @app.route('/linktree')
 def linktree():
     return render_template('linktree.html')
+
+
+@app.route('/agenda')
+def agenda():
+    return redirect('https://wa.me/559132385464?text=Gostaria%20de%20marcar%20uma%20consulta!')
