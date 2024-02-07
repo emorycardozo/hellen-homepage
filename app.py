@@ -49,4 +49,5 @@ def linktree():
 
 @app.route('/agenda')
 def agenda():
-    return redirect('https://wa.me/559132385464?text=Gostaria%20de%20marcar%20uma%20consulta!')
+    return render_template('agenda.html')
+    # return redirect('https://wa.me/559132385464?text=Gostaria%20de%20marcar%20uma%20consulta!')
